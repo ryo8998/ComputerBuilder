@@ -1,0 +1,9 @@
+.wrap-scroll-table {
+    overflow-x: scroll;
+    margin: 0 auto;
+  }
+
+body{
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Questrial', sans-serif;
+}
