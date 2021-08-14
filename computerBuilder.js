@@ -213,7 +213,7 @@ class View{
         container.classList.add("d-flex","col-12","justify-content-center","flex-column","mt-3","flex-wrap");
         container.innerHTML = `
         <div>
-            <h3>Step:2 Select your CPU</h3>
+            <h3>Step:1 Select your CPU</h3>
         </div>
         <div class="d-flex justify-content-start mt-1 col-12 flex-wrap">
             <div class="mx-2 col-sm-4">
@@ -242,7 +242,7 @@ class View{
         container.classList.add("d-flex","col-12","justify-content-center","flex-column","mt-3");
         container.innerHTML = `
         <div>
-            <h3>Step:1 Select your GPU</h3>
+            <h3>Step:2 Select your GPU</h3>
         </div>
         <div class="d-flex justify-content-start mt-1 col-12 flex-wrap">
             <div class="mx-2 col-sm-4">
